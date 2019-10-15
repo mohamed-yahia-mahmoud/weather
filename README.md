@@ -1,4 +1,4 @@
-# quakes2
+# Weather
 
 A new Flutter application.
 
