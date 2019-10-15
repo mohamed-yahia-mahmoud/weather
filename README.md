@@ -1,6 +1,6 @@
 # Weather
 
-A new Flutter application.
+A new Flutter application which is used for getting tempreature degree of any city arround the world.
 
 ## Getting Started
 
